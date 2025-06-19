@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Anglo Ayman jhon
+Anglo Ayman
+Flutter developer
 
 Show Contacts
 
 Email
-richard@example.com
+angloJhon4@gmail.com
 
 Phone
-+1 (213) 352-2795
++20 01200078558
 
 Birthday
-June 23, 1982
+August 24, 1997
 
 Location
-Sacramento, California, USA
+Egypt, Aswan, Aswan
 
 # navbar
 
